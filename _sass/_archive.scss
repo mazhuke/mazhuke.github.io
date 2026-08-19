@@ -243,3 +243,29 @@
     }
   }
 }
+
+/* Continuous publication numbering across sections (Research page) */
+.continuous-numbering {
+  counter-reset: publication;
+}
+
+.continuous-numbering ol {
+  list-style: none;
+  padding-left: 0;
+  margin-left: 0;
+}
+
+.continuous-numbering ol > li {
+  counter-increment: publication;
+  position: relative;
+  padding-left: 2.25em;
+  margin-bottom: 0.85em;
+}
+
+.continuous-numbering ol > li::before {
+  content: counter(publication) ".";
+  position: absolute;
+  left: 0;
+  width: 2em;
+  text-align: right;
+}
