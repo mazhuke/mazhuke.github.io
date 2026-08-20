@@ -22,7 +22,7 @@ Graduated PhD Students
 - Donghang Luo
 - Kunyang Song
 
-Visiting PhD Students
+Previous/Current Visiting PhD Students
 ======
 
 - Feiyu Jiang

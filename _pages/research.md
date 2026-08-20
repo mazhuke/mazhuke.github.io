@@ -8,7 +8,7 @@ author_profile: true
 continuous_numbering: true
 ---
 
-Machine learning in finance
+Machine Learning in Finance
 ======
 1. Zhang, Y., Zhu, K. and Zhu, Z. (2026), ReSGA: A large tail risk model for learning value-at-risk and expected shortfall. In Submission. [PDF](https://www.researchgate.net/publication/406697001_ReSGA_A_Large_Tail_Risk_Model_for_Learning_Value-at-Risk_and_Expected_Shortfall) [The website of ReSGA](https://tailrisk-resga.github.io)
 1. Zhu, Z. and Zhu, K. (2026), Machine learning vast dynamic conditional covariance matrices: the spirit of “divide and conquer”. To appear in Management Science. [PDF](https://www.researchgate.net/publication/412210733_Machine_Learning_Vast_Dynamic_Conditional_Covariance_Matrices_the_Spirit_of_Divide_and_Conquer) [Codes](https://github.com/ZhuZhouFan/GRAND)
@@ -17,14 +17,14 @@ Machine learning in finance
 1. Zhu, Z., Zhang, N. and Zhu, K. (2024), Big portfolio selection by graph-based conditional moments method. Journal of Empirical Finance 78, 101533. [PDF](https://www.researchgate.net/publication/367529309_Big_portfolio_selection_by_graph-based_conditional_moments_method) [Journal Link](https://www.sciencedirect.com/science/article/abs/pii/S0927539824000689) [Codes](https://github.com/ZhuZhouFan/GRACE)
 1. Yang, X., Zhu, Z., Li, D. and Zhu, K. (2024), Asset pricing via the conditional quantile variational autoencoder. Journal of Business & Economic Statistics 42, 681-694. [PDF](https://www.researchgate.net/publication/361455269_Asset_pricing_via_the_conditional_quantile_variational_autoencoder) [Journal Link](https://www.tandfonline.com/doi/full/10.1080/07350015.2023.2223683) [Codes](https://github.com/ZhuZhouFan/CQVAE)
 
-Panel data analysis
+Panel Data Analysis
 ======
 1. Pu, Z., Su, B. and Zhu, K. (2026), Testing for conditional heteroskedasticity in large dynamic panel models. In Submission. [PDF](https://www.researchgate.net/publication/410495590_Testing_for_conditional_heteroskedasticity_in_large_dynamic_panel_models)
 1. Ren, X., Shu, L., Wang, G. and Zhu, K. (2025), Efficient estimation of large time-varying factor models with double sparsity. In Submission. [PDF](https://www.researchgate.net/publication/392323055_Efficient_estimation_of_large_time-varying_factor_models_with_double_sparsity)
 1. Su, B. Zhu, F. and Zhu, K. (2025), Logarithmic spatial heteroscedasticity model with exogenous variables: Ohio's housing prices. To appear in Spatial Economic Analysis. [PDF](https://www.researchgate.net/publication/367217891_Statistical_inference_for_the_logarithmic_spatial_heteroskedasticity_model_with_exogenous_variables) [Journal Link](https://www.tandfonline.com/doi/full/10.1080/17421772.2025.2597824?src=)
 1. Su, B. and Zhu, K. (2025), Inference for the panel ARMA-GARCH model when both N and T are large. Major Revision for Journal of Business & Economic Statistics. [PDF](https://www.researchgate.net/publication/380184132_Inference_for_the_panel_ARMA-GARCH_model_when_both_N_and_T_are_large) [Codes](https://github.com/subingGitHub/Codes-for-panel-ARMA-GARCH-model/)
 
-Time series analysis
+Time Series Analysis
 ======
 1. Yu, C., Zhu, Z. and Zhu, K. (2026), Conditional quantile adjusted conformal prediction for time series. International Conference on Machine Learning. [PDF](https://www.researchgate.net/publication/405427665_Conditional_Quantile_Adjusted_Conformal_Prediction_for_Time_Series) [Conference Link](https://icml.cc/virtual/2026/poster/64983)
 1. Zhang, Y., Yu, C., Zhu, K. and Ling, S. (2026), Tensor double autoregressive model with application to heavy-tailed tensor time series data. In Submission.
