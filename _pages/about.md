@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -8,15 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-- I am an Associate Professor in the [Department of Statistics & Actuarial Science](https://saasweb.hku.hk/) at the [University of Hong Kong](https://www.hku.hk/). 
-
-- I received my Ph.D. in Statistics from the Hong Kong University of Science and Technology in 2010. 
-
-- Before that, I graduated with a B.Sc. in Mathematics from the University of Science and Technology of China in 2006.
-
-Research Interests
+Education
 ======
-Time series analysis; Econometrics; Machine learning in finance; Panel data analysis.
+- Ph.D. in Statistics, Hong Kong University of Science and Technology, 2006 -- 2011
+- B.Sc. in Mathematics, University of Science and Technology of China, 2002 -- 2006
 
 Work Experience
 ======
@@ -24,10 +18,12 @@ Work Experience
 - Assistant Professor, University of Hong Kong, 2016 -- 2022
 - Assistant Professor, Chinese Academy of Sciences, 2012 -- 2016
 
-Education
+Research Interests
 ======
-- Ph.D. in Statistics, Hong Kong University of Science and Technology, 2006 -- 2010
-- B.Sc. in Mathematics, University of Science and Technology of China, 2002 -- 2006
+- Time series analysis
+- Econometrics
+- Machine learning in finance
+- Panel data analysis
 
 Awards
 ======
