@@ -5,7 +5,7 @@ permalink: /people/
 author_profile: true
 ---
 
-PhD Students
+Current PhD Students
 ======
 
 - Yufan Feng
