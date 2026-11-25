@@ -9,11 +9,11 @@ Current PhD Students
 ======
 
 - Yufan Feng
-- Bing Su 
 - Zihao Pu  
 - Yichi Zhang  
 - Yuteng Zhang
 - Yanlin Jiang
+- Ruyu Wang
 
 Graduated PhD Students
 ======
@@ -21,6 +21,7 @@ Graduated PhD Students
 - Ningning Zhang
 - Donghang Luo
 - Kunyang Song
+- Bing Su
 
 Previous/Current Visiting PhD Students
 ======
@@ -30,6 +31,7 @@ Previous/Current Visiting PhD Students
 - Zhoufan Zhu
 - Cheng Yu
 - Mengya Liu
+- Ying Niu
 - Yalin Wang
 - Xiaoyang Ma
 - Nuo Xu
