@@ -26,7 +26,7 @@ Panel Data Analysis
 
 Time Series Analysis
 ======
-1. Yu, C., Zhu, Z. and **Zhu, K.** (2026), Conditional quantile adjusted conformal prediction for time series. In _Proceedings of the 43rd International Conference on Machine Learning_, volume 306 of _Proceedings of Machine Learning Research_, pp. 151798–151817. PMLR. [PDF](https://www.researchgate.net/publication/405427665_Conditional_Quantile_Adjusted_Conformal_Prediction_for_Time_Series) [Conference Link](https://icml.cc/virtual/2026/poster/64983)
+1. Yu, C., Zhu, Z. and **Zhu, K.** (2026), Conditional quantile adjusted conformal prediction for time series. In _Proceedings of the 43rd International Conference on Machine Learning_, volume 306 of _Proceedings of Machine Learning Research_, pp. 151798-151817. PMLR. [PDF](https://www.researchgate.net/publication/405427665_Conditional_Quantile_Adjusted_Conformal_Prediction_for_Time_Series) [Conference Link](https://icml.cc/virtual/2026/poster/64983)
 1. Zhang, Y., Yu, C., **Zhu, K.** and Ling, S. (2026), Tensor double autoregressive model with application to heavy-tailed tensor time series data. In Submission.
 1. Zhang, N., Feng, Y., Zhu, Z. and **Zhu, K.** (2026), A new family of generalized Laguerred gamma distributions: With applications in finance. Major Revision for _Journal of Business & Economic Statistics_.
 1. Song, K., Luo, D., Li, W.K. and **Zhu, K.** (2026), Testing for the symmetry of innovation in multivariate time series models. Major Revision for _Journal of Econometrics_. [PDF](https://www.researchgate.net/publication/399897685_Testing_for_the_symmetry_of_innovation_in_multivariate_time_series_models)
