@@ -18,8 +18,8 @@ Current PhD Students
 Graduated PhD Students
 ======
 
-- Ningning Zhang
 - Donghang Luo
+- Ningning Zhang
 - Kunyang Song
 - Bing Su
 
