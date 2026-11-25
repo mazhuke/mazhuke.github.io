@@ -19,7 +19,7 @@ Machine Learning in Finance
 
 Panel Data Analysis
 ======
-1. Pu, Z., Su, B. and **Zhu, K.** (2026), Testing for conditional heteroskedasticity in large dynamic panel models. In Submission. [PDF](https://www.researchgate.net/publication/410495590_Testing_for_conditional_heteroskedasticity_in_large_dynamic_panel_models)
+1. Pu, Z., Su, B. and **Zhu, K.** (2026), Testing for second-order cross-sectional dependence and serial dependence of large dynamic panel models. In Submission. [PDF](https://www.researchgate.net/publication/410495590_Testing_for_conditional_heteroskedasticity_in_large_dynamic_panel_models)
 1. Ren, X., Shu, L., Wang, G. and **Zhu, K.** (2025), Efficient estimation of large time-varying factor models with double sparsity. In Submission. [PDF](https://www.researchgate.net/publication/392323055_Efficient_estimation_of_large_time-varying_factor_models_with_double_sparsity)
 1. Su, B. Zhu, F. and **Zhu, K.** (2025), Logarithmic spatial heteroscedasticity model with exogenous variables: Ohio's housing prices. To appear in _Spatial Economic Analysis_. [PDF](https://www.researchgate.net/publication/367217891_Statistical_inference_for_the_logarithmic_spatial_heteroskedasticity_model_with_exogenous_variables) [Journal Link](https://www.tandfonline.com/doi/full/10.1080/17421772.2025.2597824?src=)
 1. Su, B. and **Zhu, K.** (2025), Inference for the panel ARMA-GARCH model when both N and T are large. Major Revision for _Journal of Business & Economic Statistics_. [PDF](https://www.researchgate.net/publication/380184132_Inference_for_the_panel_ARMA-GARCH_model_when_both_N_and_T_are_large) [Codes](https://github.com/subingGitHub/Codes-for-panel-ARMA-GARCH-model/)
